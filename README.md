@@ -52,3 +52,7 @@ Please help improve this list! When contributing:
 2. Include a brief description
 3. Note if the tool is free, open-source, or has a free tier
 4. Keep categories organized and alphabetized
+
+## Credits
+
+- [AI Engineer Pack](https://www.aiengineerpack.com/) - A comprehensive toolkit for AI developers, providing over $50,000 worth of credits across various AI and development tools and services.

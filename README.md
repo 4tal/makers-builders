@@ -18,6 +18,12 @@ A curated collection of software tools that help makers and builders create, des
 - [PostgreSQL](https://www.postgresql.org/) - Open source relational database
 - [Supabase](https://supabase.com/) - Open source Firebase alternative
 
+### Payment Integration
+
+- [LemonSqueezy](https://www.lemonsqueezy.com/) - All-in-one platform for software licensing and payments (Free tier)
+- [PayPal](https://www.paypal.com/business) - Global payment processing platform
+- [RevenueCat](https://www.revenuecat.com/) - In-app subscription management and analytics (Free tier)
+
 ### Deployment & Hosting
 
 - [GitHub Pages](https://pages.github.com/) - Static site hosting

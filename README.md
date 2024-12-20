@@ -38,6 +38,12 @@ A curated collection of software tools that help makers and builders create, des
 - [MongoDB Atlas](https://www.mongodb.com/atlas) - Document database (Free tier)
 - [PostgreSQL](https://www.postgresql.org/) - Open source relational database
 
+## Community
+
+### Discussion Groups
+
+- [WhatsApp Group](https://chat.whatsapp.com/D0QT0J7Q79W7SJXBVygOAM) - Join our makers and builders community on WhatsApp
+
 ## Contributing
 
 Please help improve this list! When contributing:

@@ -61,4 +61,4 @@ Please help improve this list! When contributing:
 
 ### Discussion Groups
 
-- [WhatsApp Group](https://chat.whatsapp.com/D0QT0J7Q79W7SJXBVygOAM) - Join our makers and builders community on WhatsApp
+- [Maintainers WhatsApp Group](https://chat.whatsapp.com/D0QT0J7Q79W7SJXBVygOAM) - Join our makers and builders maintainers on WhatsApp

@@ -37,6 +37,8 @@ A curated collection of software tools that help makers and builders create, des
 - [GitHub Projects](https://github.com/features/projects) - Project planning integrated with GitHub
 - [Notion](https://www.notion.so/) - All-in-one workspace for notes and projects
 - [Trello](https://trello.com/) - Kanban-style project boards
+- [Linear](https://linear.app/) - Project management tool
+- [Super Productivity](https://super-productivity.com/) - Productivity app for managing tasks and projects
 
 ### Documentation
 

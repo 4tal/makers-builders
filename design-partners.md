@@ -11,6 +11,9 @@ Design partners are early adopters who collaborate closely with you during produ
 - **Online Communities**
 - **Personal Network**
 - **Cold Outreach**
+  - [Postaga](https://postaga.com/) - Email outreach tool (not validated)
+  - [Leadfeeder](https://leadfeeder.com/) - B2B lead generation tool (not validated)
+  - [LeadsBridge](https://leadsbridge.com/) - B2B lead generation tool (not validated)
 
 ### Best Practices
 

@@ -2,11 +2,7 @@
 
 A curated collection of software tools that help makers and builders create, design, and ship products.
 
-## Design Partners
-
-### Finding Design Partners
-
-### Feedback Collection
+## [Design Partners](<./design-partners.md>)
 
 ## Product Development Stages
 

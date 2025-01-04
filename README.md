@@ -44,6 +44,14 @@ A curated collection of software tools that help makers and builders create, des
 - [MkDocs](https://www.mkdocs.org/) - Project documentation with Markdown
 - [Obsidian](https://obsidian.md/) - Knowledge base and note-taking
 
+## Design Partners
+
+### Finding Design Partners
+
+### Feedback Collection
+
+## Marketing & Growth
+
 ## Credits
 
 - [AI Engineer Pack](https://www.aiengineerpack.com/) - A comprehensive toolkit for AI developers, providing over $50,000 worth of credits across various AI and development tools and services.

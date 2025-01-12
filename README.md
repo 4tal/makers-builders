@@ -2,17 +2,17 @@
 
 A curated collection of software tools that help makers and builders create, design, and ship products.
 
-## [Design Partners](<./design-partners.md>)
+## [Design Partners](./design-partners.md)
 
 ## Product Development Stages
 
-### 1. Discovery & Validation
+### 1\. Discovery & Validation
 
-### 2. Alpha Stage
+### 2\. Alpha Stage
 
-### 3. Beta Stage
+### 3\. Beta Stage
 
-### 4. Launch & Scale
+### 4\. Launch & Scale
 
 ## Development & Design
 
@@ -77,4 +77,4 @@ Please help improve this list! When contributing:
 1. Add tools you've personally used and can vouch for
 2. Include a brief description
 3. Note if the tool is free, open-source, or has a free tier
-4. Keep categories organized and alphabetized
+4. Keep categories organized and alphabetizedw
